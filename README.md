@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dhruvisha Jaiswal</h1>
 <h3 align="center">A enthusiast AI/ML Engineer & Data Analyst from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvisha19&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvisha19" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvisha19" alt="dhruvisha19" /></a> </p>
+
 - 🔭 I’m currently working on **GEN-AI related projects**
 
 - 🌱 I’m currently exploring **GEN-AI, Agentic-AI, AI Assistants, MCP Servers**
@@ -21,3 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvisha19&show_icons=true&locale=en&layout=compact" alt="dhruvisha19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvisha19&show_icons=true&locale=en" alt="dhruvisha19" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvisha19&" alt="dhruvisha19" /></p>
